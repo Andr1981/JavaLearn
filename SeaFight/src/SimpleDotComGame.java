@@ -13,7 +13,8 @@ public class SimpleDotComGame {
         Scanner scanner = new Scanner(System.in);
 
         while (simpleDotCom.isAlive) {
-            System.out.println("Ваш выстрел! Введите число от 0 до  " +
+            System.out.println();
+            System.out.println("Введите число от 0 до  " +
                     simpleDotCom.locationCells[simpleDotCom.locationCells.length - 1]);
             userGuess = scanner.nextInt();
             simpleDotCom.checkYourself(userGuess);
