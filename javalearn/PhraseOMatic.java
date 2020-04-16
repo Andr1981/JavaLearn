@@ -1,3 +1,5 @@
+package javalearn;
+
 public class PhraseOMatic{
 	public static void main(String[] args) {
 		String[] wordListOne = {"круглосуточный","трех-звенный","30000-футовый","взаимный","обоюдный выигрыш"};

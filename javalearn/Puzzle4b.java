@@ -1,3 +1,5 @@
+package javalearn;
+
 class Puzzle4b{
 	int ivar;
 	public int doStuff(int factor){

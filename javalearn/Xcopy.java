@@ -1,3 +1,5 @@
+package javalearn;
+
 class Xcopy{
 	public static void main(String[] args) {
 		int orig = 42;

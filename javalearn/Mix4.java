@@ -1,3 +1,5 @@
+package javalearn;
+
 class Mix4{
 	int counter = 0;
 	public static void main(String[] args) {

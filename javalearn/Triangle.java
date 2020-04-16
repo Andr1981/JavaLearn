@@ -1,3 +1,5 @@
+package javalearn;
+
 class Triangle{
 	double area;
 	int height;

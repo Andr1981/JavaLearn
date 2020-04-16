@@ -1,3 +1,5 @@
+package javalearn;
+
 class Clock{
 	String time;
 	

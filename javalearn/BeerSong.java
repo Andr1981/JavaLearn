@@ -1,3 +1,5 @@
+package javalearn;
+
 public class BeerSong{
 	public static void main(String[] args) {
 		int beernum=99;
